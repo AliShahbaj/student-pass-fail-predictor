@@ -24,7 +24,7 @@ This project uses [uv](https://docs.astral.sh/uv/) for dependency management.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/student_pass_fail_prediction.git
+   git clone https://github.com/AliShahbaj/student_pass_fail_prediction.git
    cd student_pass_fail_prediction
    ```
 
